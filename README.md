@@ -16,7 +16,11 @@ this database was built due to make improve in Metallurgical Lab. in My college,
   * "Pendaftaran Praktikan" : this menu used to student registration
   ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_regist.png)
   * "Cari NIM praktikan" : to find StudentID(due to student's score input based on StudentID)
+  
+  
   ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_find.png)
+  
+  
   ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_find1.png)
   * "Nilai Praktikum I/II" : Student's Score input form
   ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_find1.png)
