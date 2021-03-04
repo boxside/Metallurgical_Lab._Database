@@ -23,7 +23,7 @@ this database was built due to make improve in Metallurgical Lab. in My college,
   
   ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_find1.png)
   * "Nilai Praktikum I/II" : Student's Score input form
-  ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_find1.png)
+  ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_score.png)
   * "Nilai UAS dan Presentasi" : Student's Final Exam and Presentation Score
   ![Figure 1.2](https://github.com/boxside/Metallurgical_Lab._Database/blob/main/figure/std_prst.png)  
   * "Rekap Nilai" : Student's Score recapitulation
